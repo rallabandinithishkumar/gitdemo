@@ -1,2 +1,4 @@
 # gitdemo
-demo project
+This is my demo Git Repository
+<br>
+-Nithish
